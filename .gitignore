@@ -1,3 +1,5 @@
 build
 *.class
 *.log
+app/src/main/java/andzoombie/com/andzoombie/testing
+app/src/main/res

@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name="andzoombie.com.andzoombie.testing.MenuTesting">
+        </activity>
     </application>
 
 </manifest>
