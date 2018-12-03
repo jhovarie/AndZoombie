@@ -16,6 +16,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 import andzoombie.com.andzoombie.R;
 
+
+//this is a testing..
 public class MenuTesting extends ListActivity{
     static final String[] Food = new String[]{
             "Ice Cream","Bacon","Cheese","Sandwich","Ice Cream","Bacon","Cheese","Sandwich",
